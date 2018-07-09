@@ -1,0 +1,20 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "allOf": [
+        {
+            "$ref": "http://bigcontent.io/cms/schema/v1/core#/definitions/content"
+        }
+    ],
+    "id": "https://raw.githubusercontent.com/amplience/dc-integrations-sfcc/master/content-types/sfcc/sfcc.json",
+    "title": "SFCC Definitions",
+    "description": "SFCC Definitions",
+    "type": "object",
+    "definitions": {
+        "sfcc_slot": {
+            "$ref": "https://raw.githubusercontent.com/amplience/dc-integrations-sfcc/master/content-types/sfcc/sfcc-slot.json"
+        },
+        "sfcc_category_slot": {
+            "$ref": "https://raw.githubusercontent.com/amplience/dc-integrations-sfcc/master/content-types/sfcc/sfcc-category-slot.json"
+        }
+    }
+}

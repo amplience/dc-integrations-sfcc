@@ -1,0 +1,17 @@
+{
+    "$schema": "http://bigcontent.io/cms/schema/v1/schema#",
+    "allOf": [
+        {
+            "$ref": "http://bigcontent.io/cms/schema/v1/core#/definitions/content"
+        }
+    ],
+    "id": "https://raw.githubusercontent.com/amplience/dc-integrations-sfcc/master/content-types/sfcc/sfcc-category-slot.json",
+    "title": "SFCC Category Slot",
+    "description": "SFCC Category Slot",
+    "type": "object",
+    "properties": {
+        "category_id": {
+            "type": "string"
+        }
+    }
+}
