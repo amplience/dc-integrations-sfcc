@@ -5,7 +5,7 @@
             "$ref": "http://bigcontent.io/cms/schema/v1/core#/definitions/content"
         }
     ],
-    "id": "https://raw.githubusercontent.com/amplience/dc-integrations-sfcc/master/examples/content-type-slot-example.json",
+    "id": "https://raw.githubusercontent.com/amplience/dc-integrations-sfcc/master/examples/dc-slot-example.json",
     "title": "content-type-slot-example.json",
     "description": "content-type-slot-example.json description",
     "type": "object",
