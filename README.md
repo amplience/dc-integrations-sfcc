@@ -21,6 +21,10 @@ SFCC category slot schema
 
 `/content-types/sfcc/sfcc-category-slot.json`
 
+SFCC site schema
+
+`/content-types/sfcc/sfcc-site.json`
+
 ## Example Usage
 
 Example usage on a Dynamic Content slot
