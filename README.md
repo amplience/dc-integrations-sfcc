@@ -1,5 +1,3 @@
-[![Amplience Dynamic Content](media/header.png)](https://amplience.com/dynamic-content)
-
 # dc-integrations-sfcc
 > Sample content type json to assist Salesforce (SFCC) integrations with Dynamic Content.
 
